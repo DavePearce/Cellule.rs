@@ -1,2 +1,3 @@
-# Cellule.rs
-A Cell-like structure for maintaining type-level invariants.
+# Clink.rs
+
+A library for maintaining type-level invariants.
